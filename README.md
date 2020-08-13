@@ -1,1 +1,1 @@
-Light oj problem solutions in c++
+Light oj problem solutions
